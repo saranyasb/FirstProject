@@ -26,7 +26,8 @@ ul li a{
    float: left;
 }
 ul li a:hover{
-   color: orange;
+   background-color:orange;
+   color: black;
 }
 .socialtop{
    float: right;
