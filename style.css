@@ -68,6 +68,16 @@ ul li a:hover{
    height: 10px;
    margin-top:-10%;
  }
+.container{
+   width: 400px;
+   height: 200px;
+   margin: 50px auto;
+   position: relative;
+   float: right;
+   margin-right: 100px;
+   border: solid;
+   padding: 20px;
+}
 
 #footer{
    width: 100%;
