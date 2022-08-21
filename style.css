@@ -25,10 +25,7 @@ ul li a{
    padding-left: 15px;
    float: left;
 }
-ul li a:hover{
-   background-color:orange;
-   color: black;
-}
+
 .socialtop{
    float: right;
    margin-right: 5%;
