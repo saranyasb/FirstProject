@@ -58,9 +58,11 @@ ul li a:hover{
   
    height: 500px;
    width: 1000px;
- 
-   padding-top: 20px;
-   padding-bottom: 0px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+   padding-top: 10px;
+   padding-bottom: 10px;
  }
  .img-r{
    padding-left: 800px;
