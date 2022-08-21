@@ -89,7 +89,7 @@ ul li a:hover{
     float: left;
     font-size: 18px;
     color: #1C2833 ;
-    background-color: #D4AC0D ;
+    
     text-align: center;
     padding-bottom: 10px;
     padding-left: 0;
@@ -105,14 +105,14 @@ ul li a:hover{
    padding-right: 0px;
    padding-left: 0px;
    color: #1C2833 ;
-   background-color: #D4AC0D ;
+ 
    
  }
 .q{
     float: left;
     font-size: 18px;
     color:#FBFCFC;
-    background-color:#B2BABB ;
+ 
     text-align: center;
     padding-bottom: 10px;
     padding-left: 0;
@@ -128,7 +128,7 @@ ul li a:hover{
    padding-right: 0px;
    padding-left: 0px;
    color:#FBFCFC;
-   background-color:#B2BABB ;
+
 }
 a{
    text-decoration: none;
