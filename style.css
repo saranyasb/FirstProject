@@ -35,23 +35,7 @@ ul li a{
 }
 .socialtop a{
    padding: 13px;
-}
-.socialtop a:hover{
-   background-color: white;
-}
-.c{
-   float: left;
-   padding-left: 1px;
-   color: black;
-}
- p{
-    width: 400px;
-    color:white;
-    padding-left: 65px;
-    padding-top: 150px;
-    font-family: sans-serif;
- }
- 
+} 
  body{
    
     height: 50px;
